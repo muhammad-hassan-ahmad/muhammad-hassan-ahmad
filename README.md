@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Open%20To%20Work-Remote-brightgreen?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=hassan-tehseen&style=for-the-badge&color=1A56A0" />
+  <img src="https://komarev.com/ghpvc/?username=muhammad-hassan-ahmad&style=for-the-badge&color=1A56A0" />
 </p>
 
 ---
@@ -73,15 +73,22 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My Stack at a Glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassan-tehseen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-tehseen&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://img.shields.io/badge/Laravel-9%2B%20Years-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-Expert-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-Production-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-tehseen&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/AWS-EC2%20%7C%20RDS%20%7C%20S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-OpenAI%20Integrated-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitLab%20%7C%20Docker-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects%20Delivered-15%2B-1A56A0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Remote%20Work-3%2B%20Years-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Teams%20Led-Up%20to%2012%20Engineers-orange?style=for-the-badge" />
 </p>
 
 ---
