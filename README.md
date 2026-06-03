@@ -65,7 +65,7 @@
 
 | Project | Domain | Stack | Link |
 |---|---|---|---|
-| **Telring** | Telecom Platform | Laravel · Vue.js · REST API | — |
+| **Telring** | Telecom Platform | Laravel · Vue.js · REST API | [telring.com](https://telring.com/) |
 | **DocsHero** | Document Management SaaS 🇩🇪 | Laravel · Vue.js · CI/CD | [docshero.de](https://docshero.de/en/) |
 | **SpendSafe** | FinTech / Kids Banking 🇨🇦 | Laravel · Vue.js · Mastercard API | [spendsafe.com](https://www.spendsafe.com/) |
 | **CloudRep** | AI Customer Support SaaS | Laravel · Vue.js · OpenAI | [cloudrep.ai](https://www.cloudrep.ai/) |
